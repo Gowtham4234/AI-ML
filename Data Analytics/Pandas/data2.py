@@ -1,6 +1,7 @@
 import pandas as pd
 
 def run():
-    print("Running data2.py")
-    
+    data = pd.Series([1.0, 2.0, 3.0, 4.0, 5.0], name='Numbers')
+    print(data)
+
 run()
