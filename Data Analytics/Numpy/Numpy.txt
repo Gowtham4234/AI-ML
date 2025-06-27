@@ -1,0 +1,28 @@
+🧮 NumPy in Python — (Numerical Python)
+NumPy is a powerful Python library used for numerical computing, especially with large multi-dimensional arrays and matrices. It provides high-performance mathematical functions and tools for working with these arrays.
+
+🔹 Why Use NumPy?
+Much faster than standard Python lists (implemented in C).
+
+Provides powerful vectorization (operations on entire arrays).
+
+Essential for scientific computing, machine learning, and data analysis.
+
+np.mean(arr)
+np.std(arr)
+np.sum(arr)
+np.max(arr)
+np.min(arr)
+np.argmax(arr)
+np.argsort(arr)
+
+
+🔹 Applications of NumPy
+Foundation for libraries like Pandas, Scikit-learn, TensorFlow, OpenCV
+
+Image Processing and Manipulation
+
+Scientific simulations and mathematical modeling
+
+Efficient handling of large datasets
+
