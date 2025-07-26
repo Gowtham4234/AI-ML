@@ -12,6 +12,7 @@ def main():
     
     # Display the DataFrame
     print("DataFrame:")
+    print("ddDF")
     print(df)
     
 main()
